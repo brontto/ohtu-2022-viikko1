@@ -1,5 +1,0 @@
-tännekin vähän tekstiä nyt joo.
-
-nyt uudelleen joku muutos tänne
-
-jotain nyt tänne niin testataan add -p
