@@ -1,8 +1,8 @@
-import unittest
+"""Varasto module"""
 from varasto import Varasto
 
-
 def main():
+    """pääohjelma"""
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
